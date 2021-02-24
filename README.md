@@ -37,7 +37,7 @@ optional arguments:
 
 Provides analysis of vManage Admin tech, with simplified log processing
 
-##Features:
+## Features:
 * Groups similar errors and exceptions, replacing common values like IP addresses, SN, user names, to reduce the total number of different messages to evaluate. it can drive 30.000 messages into around 150
 * Detailed report available, with all logs suitable for filtering 
 * Graph reports for user API activity
