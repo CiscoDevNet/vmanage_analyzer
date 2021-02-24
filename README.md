@@ -6,6 +6,7 @@
 
 Admin Tech data summarisation
 
+```
 usage: vma [-h] [-i INPUT_FILE] [-v] [-ev] [-ea] [-er] [-em] [-ek] [-ie]
            [-d DAYS_TO_PARSE]
 
@@ -13,7 +14,7 @@ vManage Analyzer - vMA. Provides XLS summarization of logs, auth errors
 Usage: vma -i yourfile.tar.gz 
 Version 0.2
 
-```
+
 optional arguments:
   -h, --help            show this help message and exit
   -i INPUT_FILE, --input-file INPUT_FILE
