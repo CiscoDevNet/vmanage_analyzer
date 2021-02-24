@@ -1,4 +1,4 @@
-# vmanage Analyser Express
+# vmanage Analyzer Express
 
 ## ++++BETA++++
 
